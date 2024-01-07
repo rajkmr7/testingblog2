@@ -10,7 +10,7 @@ const TimelineCarousel = () => {
       content: [
         {
           heading: "tk co ltd",
-          title: "November 2019 – Juni 2020",
+          title: "november 2019 - december 2019",
           extraline: "gffhfhdfhf",
           content: [
             `Jaddgdgdgdgdgg udffdfdf dfdfd dfffffffff, dffffffffff dfffffffff, 
@@ -31,7 +31,7 @@ hdfffffffffffffffffffffffffffffrrrrrrrrr      gggfg           dgd;`,
       content: [
         {
           heading: "tk co ltd",
-          title: "November 2019 – Juni 2020",
+          title: "november 2020 - december 2020",
           extraline: "gffhfhdfhf",
           content: [
             `Jaddgdgdgdgdgg udffdfdf dfdfd dfffffffff, dffffffffff dfffffffff, 
@@ -68,7 +68,7 @@ hdfffffffffffffffffffffffffffffrrrrrrrrr      gggfg           dgd;`,
       content: [
         {
           heading: "Abc group co ltd",
-          title: "november 2020 – december 2021",
+          title: "september 2021 - december 2021",
           extraline: "De dddf fffff wddfen dddd:",
           content: [
             `Jaddgdgdgdgdgg udffdfdf dfdfd dfffffffff, dffffffffff dfffffffff, 
